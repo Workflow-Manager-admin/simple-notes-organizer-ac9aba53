@@ -1,0 +1,1 @@
+ /home/kavia/workspace/code-generation/simple-notes-organizer-ac9aba53/notes_frontend/.dart_tool/flutter_build/cc2585e45b91a6ab289ef9686ab58e6d/dart_build_result.json: 
